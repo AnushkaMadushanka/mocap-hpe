@@ -1,0 +1,22 @@
+{
+  "development": {
+    "username": "postgres",
+		"password": "postgres",
+		"database": "hpe-db",
+		"host": "127.0.0.1",
+		"dialect": "postgres",
+		"port": "5432",
+		"migrationStorageTableName": "sequelize_meta",
+		"logging": false
+  },
+  "production": {
+    "username": "postgres",
+		"password": "postgres",
+		"database": "shopshare_node_prod",
+		"host": "127.0.0.1",
+		"dialect": "postgres",
+		"port": "5432",
+		"migrationStorageTableName": "sequelize_meta",
+		"logging": false
+  }
+}
