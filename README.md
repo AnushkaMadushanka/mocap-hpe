@@ -7,7 +7,13 @@
 ![Node](https://img.shields.io/badge/Node.js-Express-green)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-Sequelize-336791)
 
-<img src="https://raw.githubusercontent.com/AnushkaMadushanka/anushkamadushanka.github.com/gh-pages/projects/mocap_hpe.webp" alt="MoCap using HPE" width="600">
+[<img src="docs/viewer.webp" alt="The animation viewer — the uploaded source clip playing bottom-left, and the reconstructed 3D figure mid-stride on the grid beside it">](https://www.youtube.com/watch?v=rZU_7MSCpr0)
+
+<sub>Source clip and reconstruction, side by side in the viewer. No suit, no markers — the input is the video on the left.</sub>
+
+<img src="docs/animations.webp" alt="The animations library — three uploaded clips, each with its own reconstruction, and a Create Animation button">
+
+<sub>Each upload becomes a job; finished animations collect in the library. The viewer's download button hands back a rig — the demo takes one straight into Blender.</sub>
 
 ---
 
